@@ -1,0 +1,180 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+:root {
+  --ff-lato: "Lato", sans-serif;
+  --ff-merriweather: "Merriweather", serif;
+
+  --bg-profile: #f7fafc;
+  --bg-login: #ffffff;
+
+  --text-color: #1a202c;
+  --text-link: #2b6cb0;
+  --text-default: #ffffff;
+
+  font-size: 62.5%;
+}
+
+.hidden {
+  display: none;
+}
+
+.main-form {
+  height: 100vh;
+  display: flex;
+}
+
+.profile-image {
+  background-color: var(--bg-profile);
+  flex: 1 0;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.form {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  flex: 1 0;
+}
+
+fieldset {
+  border: none;
+}
+
+legend,
+.form-legend {
+  font-family: var(--ff-merriweather);
+  color: var(--text-color);
+}
+
+legend {
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 3.2rem;
+}
+
+.form-legend {
+  font-size: 1.6rem;
+  line-height: 4rem;
+}
+
+.input-wrapper {
+  margin-top: 3.3rem;
+  display: grid;
+  gap: 1rem 0;
+}
+
+.input-wrapper {
+  display: grid;
+  gap: 1rem 0;
+}
+
+.input-wrapper-form {
+  display: grid;
+  gap: 1rem 0;
+  font-family: var(--ff-lato);
+  font-size: 1.6rem;
+  color: var(--text-color);
+}
+
+.input-wrapper-form input {
+  border: 1px solid #e8e8e8;
+  border-radius: 5px;
+  padding: 1.7rem 2rem;
+  font-size: 1.6rem;
+  color: var(--text-color);
+}
+
+.form-remember {
+  margin-top: 2.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.form-remember-input,
+.form-remember-link {
+  font-family: var(--ff-lato);
+  font-size: 1.4rem;
+}
+
+.form-remember-input {
+  color: var(--text-color);
+  display: flex;
+  align-items: center;
+  gap: 0 1rem;
+}
+
+.form-remember-input input[type="checkbox"] {
+  display: none; /* Oculta o checkbox original */
+}
+
+.form-remember-input label {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border: 2px solid #ccc;
+  border-radius: 50%; /* Deixa o checkbox redondo */
+  cursor: pointer;
+}
+
+.form-remember-input input[type="checkbox"]:checked + label {
+  background-color: #ccc; /* Define uma cor de fundo quando o checkbox está marcado */
+}
+
+.form-remember-link {
+  color: var(--text-link);
+}
+
+.buttons {
+  margin-top: 2.6rem;
+  display: grid;
+  gap: 1.5rem 0;
+}
+
+.button-send,
+.button-login-email {
+  border: none;
+  border-radius: 5px;
+  padding: 1.5rem 0;
+  font-family: var(--ff-lato);
+  font-weight: 700;
+  color: var(--text-default);
+  cursor: pointer;
+}
+
+.button-send {
+  background-color: #04c35c;
+}
+
+.button-login-email {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0 1rem;
+  background-color: #1a202c;
+}
+
+.form-register {
+  display: block;
+  margin-top: 16rem;
+  text-align: center;
+  font-family: var(--ff-lato);
+  font-size: 1.6rem;
+}
+
+.form-register a {
+  margin-left: 1rem;
+}
+
+@media (max-width: 800px) {
+  .profile-image {
+    display: none;
+  }
+}

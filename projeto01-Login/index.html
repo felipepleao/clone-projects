@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login-web</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="main-form">
+      <div class="profile-image">
+        <img src="./assets/imgprofile.svg" alt="Imagem ilustrativa de perfis" />
+      </div>
+
+      <div class="form">
+        <form action="#">
+          <fieldset>
+            <legend>
+              <span class="form-legend">Bem vindo de volta</span><br />
+              Faça login na sua conta
+            </legend>
+
+            <div class="input-wrapper">
+              <div class="input-wrapper-form">
+                <label for="email">E-mail</label>
+                <input type="email" name="email" id="email" />
+              </div>
+
+              <div class="input-wrapper-form">
+                <label for="password">Senha</label>
+                <input type="password" name="password" id="password" />
+              </div>
+            </div>
+
+            <div class="form-remember">
+              <div class="form-remember-input">
+                <input type="checkbox" name="lembre-me" id="lembre-me" />
+                <label for="lembre-me"></label>
+                <span>Lembre de mim</span>
+              </div>
+              <a class="form-remember-link" href="#">Esqueceu sua senha?</a>
+            </div>
+
+            <div class="buttons">
+              <button class="button-send">Entrar</button>
+              <button class="button-login-email">
+                <img src="./assets/googleIcon.svg" alt="" />
+                Ou faça login com o Google
+              </button>
+            </div>
+
+            <span class="form-register"
+              >Não tem uma conta? <a href="#">Cadastre-se</a>
+            </span>
+          </fieldset>
+        </form>
+      </div>
+    </main>
+  </body>
+</html>
