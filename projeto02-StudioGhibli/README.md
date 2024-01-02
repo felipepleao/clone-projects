@@ -26,4 +26,4 @@ Projeto visando a prática de conhecimentos em HTML e CSS.
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/clone-projects/projeto02-StudioGhibli).
+Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/pratic-layouts/projeto02-StudioGhibli/).
