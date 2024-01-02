@@ -8,12 +8,6 @@
     <a href="#-Projeto-02">Projeto-02</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#-Projeto-03">Projeto-03</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#-Projeto-04">Projeto-04</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-Projeto-05">Projeto-05</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-Projeto-06">Projeto-06</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-Projeto-07">Projeto-07</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-Projeto-08">Projeto-08</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-Projeto-09">Projeto-09</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-Projeto-10">Projeto-10</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   </p>
 
   <br>
