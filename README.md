@@ -1,4 +1,4 @@
-  <h1 align="center">Projetos Clones para aprimorar habilidades em HTML e CSS</h1>
+  <h1 align="center">Projetos de layouts para aprimorar habilidades em HTML e CSS</h1>
   <p align="center">
   Realizados por: Felipe Leão
   </p>
