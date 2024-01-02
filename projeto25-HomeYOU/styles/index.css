@@ -1,0 +1,46 @@
+@import "./header.css";
+@import "./contato.css";
+@import "./design.css";
+@import "./galeria.css";
+@import "./orcamento.css";
+@import "./footer.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+:root {
+  font-size: 62.5%;
+
+  --backgroundPage1-color: #FFFFFF;
+  --backgroundPage2-color: #F9F9F9;
+  --backgroundLogo-color: #272727;
+  --backgroundCard-color: #272727;
+  --button-color: #272727;
+  --border-color: #272727;
+  --title-color: #272727;
+  --text-color: #FFF;
+  --simpleText-color: #797979;
+  --textLink-color: #272727;
+
+  --font-family: 'Montserrat', sans-serif;
+  font-family: var(--font-family);
+  font-weight: 500;
+}
+
+.container {
+  max-width: 150rem;
+  padding: 0 3rem;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  padding: 5px;
+  background-color: var(--backgroundLogo-color);
+}

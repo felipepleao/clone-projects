@@ -1,0 +1,223 @@
+.main__ranking {
+  margin-top: 8rem;
+}
+
+.main__ranking h2 {
+  font-size: clamp(2.4rem, 3vw, 4rem);
+}
+
+.main__ranking__title {
+  text-align: center;
+}
+
+.main__ranking__nfts {
+  margin-top: 4.8rem;
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  gap: 2.4rem 3.2rem;
+}
+
+.main__ranking__nfts div {
+  flex-grow: 1;
+}
+
+.main__ranking__nfts img {
+  max-width: 38.4rem;
+  max-height: 45rem;
+  width: 100%;
+  height: 100%;
+}
+
+.main__ranking__colecionadores {
+  margin-top: 10rem;
+}
+
+.main__ranking__colecionadores__table {
+  margin-top: 4.8rem;
+  display: grid;
+  grid-template-columns: 1fr repeat(3, auto);
+  grid-template-rows: auto;
+  gap: 5rem 12.1rem;
+}
+
+.main__ranking__colecionadores__table h2 {
+  font-size: clamp(1.4rem, 2vw, 2.4rem);
+  font-weight: 500;
+}
+
+.main__ranking__colecionadores__table h3 {
+  font-size: clamp(1.4rem, 2vw, 2rem);
+  font-weight: 500;
+}
+
+.main__ranking__colecionadores__table span {
+  font-size: 1.6rem;
+  text-align: end;
+  background: linear-gradient(98deg, #FF8D8D -38.38%, #F7FC0E 71.88%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bar {
+  grid-area: 2 / 1 / 3 / -1;
+
+}
+
+.bar img {
+  width: 100%;
+}
+
+.title__colecionador {
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+.table__colecionador {
+  grid-column: 1 / 2;
+}
+
+.table__colecionador div {
+  display: flex;
+  align-items: center;
+  gap: 0 2.9rem;
+}
+
+.title__volume {
+  grid-area: 1 / 2;
+  grid-column: 2 / 3;
+}
+
+.table__volume {
+  grid-column: 2 / 3;
+}
+
+.volume--um {
+  grid-row: 3 / 4;
+}
+
+.volume--dois {
+  grid-row: 4 / 5;
+}
+
+.volume--tres {
+  grid-row: 5 / 6;
+}
+
+.volume--quatro {
+  grid-row: 6 / 7;
+}
+
+.table__piso {
+  grid-column: 3 / 4;
+  grid-row: 1 / 2;
+}
+
+.title__piso {
+  grid-area: 1 / 3 / 2 / 4;
+}
+
+.piso--um {
+  grid-row: 3 / 4;
+}
+
+.piso--dois {
+  grid-row: 4 / 5;
+}
+
+.piso--tres {
+  grid-row: 5 / 6;
+}
+
+.piso--quatro {
+  grid-row: 6 / 7;
+}
+
+.title__items {
+  grid-column: 4 / 5;
+  grid-row: 1 / 2;
+}
+
+.table__items {
+  grid-column: 4 / 5;
+}
+
+.items--um {
+  grid-row: 3 / 4;
+}
+
+.items--dois {
+  grid-row: 4 / 5;
+}
+
+.items--tres {
+  grid-row: 5 / 6;
+}
+
+.items--quatro {
+  grid-row: 6 / 7;
+}
+
+.title__volume,
+.title__piso,
+.title__items,
+.table__volume,
+.table__piso,
+.table__items {
+  justify-self: end;
+}
+
+.table__volume div,
+.table__piso div {
+  display: grid;
+  row-gap: 1.9rem;
+}
+
+.table__volume span,
+.table__piso span{
+  display: block;
+  justify-self: end;
+}
+
+.main__ranking__colecionadores__table__button {
+  display: none;
+}
+
+@media (max-width: 840px) {
+  .main__ranking__colecionadores {
+    margin-top: 5.6rem;
+  }
+
+  .main__ranking__nfts {
+    text-align: center;
+  }
+
+  .main__ranking__colecionadores__table {
+    grid-template-columns: 1fr auto;
+    gap: 1.1rem 0;
+  }
+
+  .title__piso, .table__piso,
+  .title__items, .table__items {
+    display: none;
+  }
+  
+  .main__ranking__colecionadores__table__button {
+    display: block;
+    font-size: 1.6rem;
+    padding: 1.6rem 0;
+    grid-column: 1 / 3;
+    text-align: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .main__ranking__nfts img {
+    max-width: 31.2rem;
+    max-height: 25.4rem;
+    width: 100%;
+    height: 100%;
+  }
+}

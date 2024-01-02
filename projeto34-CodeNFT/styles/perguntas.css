@@ -1,0 +1,39 @@
+.main__perguntas {
+  margin-top: 7.5rem;
+  display: grid;
+
+  gap: 4.4rem;
+}
+
+.main__perguntas h2 {
+  font-size: clamp(2.2rem, 2vw, 4rem);
+  font-weight: 600;
+  margin-bottom: 2rem;
+}
+
+.main__perguntas div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main__perguntas div p {
+  font-size: clamp(1.4rem, 2vw, 2rem);
+}
+
+.main__perguntas div img {
+  cursor: pointer;
+}
+
+.main__perguntas__separador {
+  width: 100%;
+}
+
+@media (max-width: 840px) {
+  .main__perguntas {
+    margin-top: 5.6rem;
+    display: grid;
+  
+    gap: 1.5rem;
+  }
+}

@@ -1,0 +1,56 @@
+#header {
+  padding: 3rem 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__logo {
+  display: flex;
+  align-items: center;
+  gap: 0 1.6rem;
+}
+
+.header__logo h1 {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 2.4rem;
+}
+
+.header__navbar ul,
+.header__navbar__icons {
+  display: flex;
+  align-items: center;
+}
+
+.header__navbar ul {
+  gap: 0 4.8rem;
+}
+
+.header__navbar ul a {
+  color: var(--title-color);
+  font-size: 1.8rem;
+}
+
+.header__navbar__icons {
+  margin-left: 8px;
+  gap: 0 3.2rem;
+  cursor: pointer;
+}
+
+.menuHamburguer {
+  display: none;
+}
+
+@media (max-width: 860px) {
+  .header__navbar ul {
+    display: none;
+  }
+
+  .menuHamburguer {
+    display: block;
+  }
+}

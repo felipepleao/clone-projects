@@ -1,0 +1,32 @@
+.container.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__navbar__links {
+  display: flex;
+  align-items: center;
+  gap: 0 4.8rem;
+}
+
+.header__navbar__links a {
+  font-size: clamp(1.6rem, 2vw, 2rem);
+  font-weight: 500;
+  color: var(--color-text);
+}
+
+.header__navbar__menu {
+  display: none;
+}
+
+
+@media (max-width:800px) {
+  .header__navbar__links {
+    display: none;
+  }
+
+  .header__navbar__menu {
+    display: block;
+  }
+}

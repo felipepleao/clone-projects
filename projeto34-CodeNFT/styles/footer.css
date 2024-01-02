@@ -1,0 +1,39 @@
+.container.footer {
+  margin: 8.05rem auto 3rem;
+}
+
+.footer div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0 5rem;
+}
+
+.footer__icons { 
+  width: 5.6rem;
+  height: 5.6rem;
+  padding: 3.5rem;
+  border: 2px solid;
+  border-image: linear-gradient(to right, var(--border-gradient)) 1;;
+  background: rgba(255, 255, 255, 0.10);
+  backdrop-filter: blur(50px);
+}
+
+.footer div img {
+  max-width: 36px;
+  max-height: 36px;
+}
+
+@media (max-width: 840px) {
+  .container.footer {
+    margin-top: 5.6rem;
+  }
+
+  .footer div {
+    justify-content: space-between;
+  }
+
+  .footer__icons { 
+    padding: 1rem;
+  }
+}
