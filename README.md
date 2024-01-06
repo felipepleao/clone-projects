@@ -22,11 +22,11 @@
   > Projeto desenvolvido com as seguintes tecnologias:
   <br><br>[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br><br>
   > Link do projeto:
-  > [Projeto](https://github.com/felipepleao/practical-PersonalProjects/tree/main/01-calculadora)
+  > [Projeto](https://github.com/felipepleao/layout-practice/tree/main/projeto01-Login)
 
   ## Deploy
 
-  [LINK](https://felipepleao.github.io/projetos-pessoais/01-calculadora/).
+  [LINK](https://felipepleao.github.io/layout-practice/projeto01-Login/).
 
   ## Screenshots
 
@@ -40,11 +40,11 @@
   > Projeto desenvolvido com as seguintes tecnologias:
   <br><br>[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br><br>
   > Link do projeto:
-  > [Projeto](https://github.com/felipepleao/practical-PersonalProjects/tree/main/01-calculadora)
+  > [Projeto](https://github.com/felipepleao/layout-practice/tree/main/projeto02-HomeYOU)
 
   ## Deploy
 
-  [LINK](https://felipepleao.github.io/projetos-pessoais/01-calculadora/).
+  [LINK](https://felipepleao.github.io/layout-practice/projeto02-HomeYOU/).
 
   ## Screenshots
 
@@ -58,11 +58,11 @@
   > Projeto desenvolvido com as seguintes tecnologias:
   <br><br>[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br><br>
   > Link do projeto:
-  > [Projeto](https://github.com/felipepleao/practical-PersonalProjects/tree/main/01-calculadora)
+  > [Projeto](https://github.com/felipepleao/layout-practice/tree/main/projeto03-CodeNFT)
 
   ## Deploy
 
-  [LINK](https://felipepleao.github.io/projetos-pessoais/01-calculadora/).
+  [LINK](https://felipepleao.github.io/layout-practice/projeto03-CodeNFT/).
 
   ## Screenshots
 

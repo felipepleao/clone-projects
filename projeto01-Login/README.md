@@ -26,4 +26,4 @@ Projeto visando a prática de conhecimentos em HTML e CSS.
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/pratic-layouts/projeto01-Login/).
+Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/layout-practice/projeto01-Login/).
