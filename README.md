@@ -1,21 +1,10 @@
-  # Projetos práticos de layout
-
-  <h1 align="center"> Projetos realizados para fixar conhecimentos </h1>
+  <h1 align="center"> Projetos práticos de layout para fixar conhecimentos em HTML & CSS </h1>
   <p align="center">
   Realizados por: Felipe Leão
   </p>
 
-  <p align="center">
-    <a href="#-Calculadora">Calculadora</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#- Desenvolvimento de Exercícios"> Desenvolvimento de Exercícios</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    
-  </p>
-
- 
   <br>
    
-
-
   ## Layout Página de Login  
   ### HTML, CSS
 
