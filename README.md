@@ -1,29 +1,71 @@
-  <h1 align="center">Projetos de layouts para aprimorar habilidades em HTML e CSS</h1>
+  # Projetos práticos de layout
+
+  <h1 align="center"> Projetos realizados para fixar conhecimentos </h1>
   <p align="center">
   Realizados por: Felipe Leão
   </p>
 
   <p align="center">
-    <a href="#-Projeto-01">Projeto-01</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-Projeto-02">Projeto-02</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-Projeto-03">Projeto-03</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-Projeto-04">Projeto-04</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#-Calculadora">Calculadora</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#- Desenvolvimento de Exercícios"> Desenvolvimento de Exercícios</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    
   </p>
+
+ 
+  <br>
+   
+
+
+  ## Layout Página de Login  
+  ### HTML, CSS
+
+  > Projeto desenvolvido com as seguintes tecnologias:
+  <br><br>[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br><br>
+  > Link do projeto:
+  > [Projeto](https://github.com/felipepleao/practical-PersonalProjects/tree/main/01-calculadora)
+
+  ## Deploy
+
+  [LINK](https://felipepleao.github.io/projetos-pessoais/01-calculadora/).
+
+  ## Screenshots
+
+  ![App Screenshot](assets/calculadora.png)
 
   <br>
 
-## 🚀 Projeto-01 - Página de Login
+  ## Layout Landing Page Imobiliária
+  ### HTML, CSS
 
-> Projetos desenvolvidos com as seguintes tecnologias:
-> <br><br>[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br><br>
-> Link dos projetos:
-> [Projeto](https://github.com/felipepleao/clone-projects/tree/main/projeto01-Login),
-> <br>
+  > Projeto desenvolvido com as seguintes tecnologias:
+  <br><br>[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br><br>
+  > Link do projeto:
+  > [Projeto](https://github.com/felipepleao/practical-PersonalProjects/tree/main/01-calculadora)
 
-## 🚀 Projeto-02 - 
+  ## Deploy
 
-> Projetos desenvolvidos com as seguintes tecnologias:
+  [LINK](https://felipepleao.github.io/projetos-pessoais/01-calculadora/).
 
-- em andamento...
-- em andamento...
-  > <br>
+  ## Screenshots
+
+  ![App Screenshot](assets/calculadora.png)
+
+  <br>
+
+  ## Layout Page NFT
+  ### HTML, CSS
+
+  > Projeto desenvolvido com as seguintes tecnologias:
+  <br><br>[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br><br>
+  > Link do projeto:
+  > [Projeto](https://github.com/felipepleao/practical-PersonalProjects/tree/main/01-calculadora)
+
+  ## Deploy
+
+  [LINK](https://felipepleao.github.io/projetos-pessoais/01-calculadora/).
+
+  ## Screenshots
+
+  ![App Screenshot](assets/calculadora.png)
+
+  <br>
