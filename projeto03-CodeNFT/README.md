@@ -1,4 +1,4 @@
-  <h1 align="center"> Projeto Desafio - Studio Ghibli</h1>
+  <h1 align="center"> Projeto Desafio - Page NFT</h1>
 
   <p align="center">
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,8 +8,7 @@
 
   <br>
    
-  ![preview](preview.png) ![preview](preview1.png)
- 
+  ![preview](../assets/preview-nft-desk.png) ![preview](../assets/preview-nft-mob.png)
 
 ## 🚀 Tecnologias
 
@@ -20,10 +19,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-> Página de Login
+> Page NFT
 
 Projeto visando a prática de conhecimentos em HTML e CSS.
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/pratic-layouts/projeto02-StudioGhibli/).
+Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/layout-practice/projeto03-CodeNFT/).
