@@ -20,7 +20,6 @@
   ## Screenshots
 
   ![App Screenshot](assets/preview-login-desk.png)
-  ![App Screenshot](assets/preview-login-mob.png)
 
   <br>
 
@@ -38,7 +37,7 @@
 
   ## Screenshots
 
-  ![App Screenshot](assets/calculadora.png)
+  ![App Screenshot](assets/preview-home-desk.png)
 
   <br>
 
@@ -56,6 +55,6 @@
 
   ## Screenshots
 
-  ![App Screenshot](assets/calculadora.png)
+  ![App Screenshot](assets/preview-nft-desk.png)
 
   <br>
