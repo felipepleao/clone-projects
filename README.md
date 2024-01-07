@@ -19,7 +19,8 @@
 
   ## Screenshots
 
-  ![App Screenshot](assets/calculadora.png)
+  ![App Screenshot](assets/preview-login-desk.png)
+  ![App Screenshot](assets/preview-login-mob.png)
 
   <br>
 
