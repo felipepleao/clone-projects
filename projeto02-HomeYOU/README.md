@@ -1,4 +1,4 @@
-  <h1 align="center"> Projeto Desafio - Studio Ghibli</h1>
+  <h1 align="center"> Projeto Desafio - Landing Page Imobiliária</h1>
 
   <p align="center">
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,8 +8,8 @@
 
   <br>
    
-  ![preview](preview.png) ![preview](preview1.png)
- 
+  ![preview](../assets/preview-home-desk.png) ![preview](../assets/preview-home-mob.png)
+
 
 ## 🚀 Tecnologias
 
@@ -20,10 +20,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-> Página de Login
+> Landing Page Imobiliária
 
 Projeto visando a prática de conhecimentos em HTML e CSS.
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/pratic-layouts/projeto02-StudioGhibli/).
+Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/layout-practice/projeto02-HomeYOU/).
