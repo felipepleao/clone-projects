@@ -5,7 +5,7 @@
 
   <br>
    
-  # Layout Página de Login  
+  # Página de Login  
   ### HTML, CSS
 
   > Projeto desenvolvido com as seguintes tecnologias:
@@ -23,7 +23,7 @@
 
   <br>
 
-  # Layout Landing Page Imobiliária
+  # Landing Page Imobiliária
   ### HTML, CSS
 
   > Projeto desenvolvido com as seguintes tecnologias:
@@ -41,7 +41,7 @@
 
   <br>
 
-  # Layout Page NFT
+  # Page NFT
   ### HTML, CSS
 
   > Projeto desenvolvido com as seguintes tecnologias:
